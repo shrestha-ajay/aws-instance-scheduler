@@ -1221,7 +1221,7 @@
         "MemorySize": {
           "Ref": "MemorySize"
         },
-        "Runtime": "python3.7",
+        "Runtime": "python3.12",
         "Timeout": 300,
         "TracingConfig": {
           "Mode": "Active"
